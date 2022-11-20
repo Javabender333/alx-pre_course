@@ -1,3 +1,7 @@
 git add .
+<<<<<<< HEAD
 git commit -m 'Hot fix'
+=======
+git commit -m 'My personal work'
+>>>>>>> update_script
 git push
